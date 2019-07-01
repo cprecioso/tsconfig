@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/tsconfig.json",
+  "compilerOptions": {
+    "target": "es3",
+    "module": "none",
+    "strict": true,
+    "skipLibCheck": true,
+    "noLib": true,
+    "alwaysStrict": true
+  }
+}

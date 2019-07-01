@@ -1,0 +1,30 @@
+{
+  "name": "@cprecioso/tsconfig",
+  "version": "0.0.2",
+  "description": "TypeScript tsconfig.json files",
+  "keywords": [
+    "esm",
+    "extendscript",
+    "node",
+    "tsconfig"
+  ],
+  "homepage": "https://github.com/cprecioso/tsconfig#readme",
+  "bugs": {
+    "url": "https://github.com/cprecioso/tsconfig/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprecioso/tsconfig.git"
+  },
+  "license": "MIT",
+  "author": "Carlos Precioso",
+  "files": [
+    "**/tsconfig.json"
+  ],
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "peerDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
