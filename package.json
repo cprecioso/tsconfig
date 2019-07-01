@@ -19,7 +19,7 @@
   "license": "MIT",
   "author": "Carlos Precioso",
   "files": [
-    "**/tsconfig.json"
+    "*.json"
   ],
   "devDependencies": {
     "typescript": "^3.4.5"
