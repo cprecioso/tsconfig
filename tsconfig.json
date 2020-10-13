@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "alwaysStrict": true,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "keyofStringsOnly": true,
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true
+  }
+}
