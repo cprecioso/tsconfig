@@ -2,30 +2,34 @@
   "name": "@cprecioso/tsconfig",
   "version": "1.0.0",
   "description": "TypeScript tsconfig.json files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprecioso/tsconfig.git"
+  },
+  "homepage": "https://github.com/cprecioso/tsconfig#readme",
+  "bugs": {
+    "url": "https://github.com/cprecioso/tsconfig/issues"
+  },
+  "author": "Carlos Precioso",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.0",
+  "files": [
+    "*.json"
+  ],
   "keywords": [
     "esm",
     "extendscript",
     "node",
     "tsconfig"
   ],
-  "homepage": "https://github.com/cprecioso/tsconfig#readme",
-  "bugs": {
-    "url": "https://github.com/cprecioso/tsconfig/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cprecioso/tsconfig.git"
-  },
-  "license": "MIT",
-  "author": "Carlos Precioso",
-  "files": [
-    "*.json"
-  ],
-  "devDependencies": {
-    "prettier": "^2.1.2",
+  "peerDependencies": {
     "typescript": "^4.0.3"
   },
-  "peerDependencies": {
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "prettier-plugin-organize-imports": "^3.2.2",
+    "prettier-plugin-pkg": "^0.17.1",
+    "prettier-plugin-sh": "^0.12.8",
     "typescript": "^4.0.3"
   }
 }
