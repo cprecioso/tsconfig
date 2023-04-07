@@ -5,9 +5,8 @@
     "skipLibCheck": true,
     "alwaysStrict": true,
     "downlevelIteration": true,
-    "experimentalDecorators": true,
-    "keyofStringsOnly": true,
-    "moduleResolution": "node",
-    "noFallthroughCasesInSwitch": true
+    "noFallthroughCasesInSwitch": true,
+    "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true
   }
 }
