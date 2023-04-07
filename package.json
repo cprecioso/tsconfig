@@ -14,7 +14,7 @@
   "license": "MIT",
   "packageManager": "yarn@3.5.0",
   "files": [
-    "*.json"
+    "./*.json"
   ],
   "keywords": [
     "esm",
