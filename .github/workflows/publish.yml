@@ -13,7 +13,6 @@ jobs:
         with:
           persist-credentials: false
       - uses: cprecioso/action-prepare-node@v1
-      - run: yarn build
       - run: yarn pack -o package.tgz
       - uses: actions/upload-artifact@v3
         with:
