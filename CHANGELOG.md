@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/cprecioso/tsconfig/compare/v2.0.0...v2.0.1) (2023-04-26)
+
+
+### Bug Fixes
+
+* add provenance ([7d0b747](https://github.com/cprecioso/tsconfig/commit/7d0b747b7d08b0e676c561620d3fd044fe5f56e3))
+
 ## [2.0.0](https://github.com/cprecioso/tsconfig/compare/v1.0.0...v2.0.0) (2023-04-07)
 
 
