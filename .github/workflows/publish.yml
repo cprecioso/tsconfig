@@ -23,7 +23,11 @@ jobs:
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
-    
+
+    environment:
+      name: npm
+      url: https://www.npmjs.com/package/@cprecioso/tsconfig
+
     permissions:
       contents: read
       id-token: write
@@ -40,5 +44,3 @@ jobs:
 
       - run: npm install -g npm
       - run: npm publish --provenance --access public package.tgz
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_PUBLISH_TOKEN}}
