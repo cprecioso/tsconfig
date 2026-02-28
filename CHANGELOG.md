@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/cprecioso/tsconfig/compare/v3.0.1...v3.0.2) (2026-02-28)
+
+
+### Bug Fixes
+
+* remove extendscript tag ([2dbaab1](https://github.com/cprecioso/tsconfig/commit/2dbaab1092df7e0a080ce8d10062ec291563e1d3))
+
 ## [3.0.1](https://github.com/cprecioso/tsconfig/compare/v3.0.0...v3.0.1) (2026-02-28)
 
 
