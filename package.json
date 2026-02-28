@@ -23,7 +23,7 @@
     "tsconfig"
   ],
   "peerDependencies": {
-    "typescript": "^5.0.4"
+    "typescript": ">=5"
   },
   "devDependencies": {
     "prettier": "3.8.1",

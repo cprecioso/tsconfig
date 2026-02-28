@@ -15,7 +15,7 @@ __metadata:
     prettier-plugin-sh: "npm:0.18.0"
     typescript: "npm:~5.9.3"
   peerDependencies:
-    typescript: ^5.0.4
+    typescript: ">=5"
   languageName: unknown
   linkType: soft
 
