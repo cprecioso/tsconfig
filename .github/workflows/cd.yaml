@@ -40,7 +40,7 @@ jobs:
       id-token: write
 
     steps:
-      - run: npm install -g npm
+      - run: sudo npm install -g npm
 
       - uses: actions/download-artifact@v8
         with:
