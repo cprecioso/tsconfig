@@ -1,0 +1,7 @@
+[[tools.corepack]]
+version = "0.34.6"
+backend = "npm:corepack"
+
+[[tools.node]]
+version = "24.14.0"
+backend = "core:node"
