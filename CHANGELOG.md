@@ -1,5 +1,24 @@
 # Changelog
 
+## [3.0.0](https://github.com/cprecioso/tsconfig/compare/v2.0.1...v3.0.0) (2026-02-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* enable verbatim module syntax
+* remove extendscript config
+
+### Features
+
+* enable verbatim module syntax ([faf4d84](https://github.com/cprecioso/tsconfig/commit/faf4d84d2457f94da7645e14b4e92ce73b316ab2))
+* new node-native ts config ([77ebaab](https://github.com/cprecioso/tsconfig/commit/77ebaabf4053069e26953f69b34380f174b3c399))
+* update typescript range ([91248f0](https://github.com/cprecioso/tsconfig/commit/91248f0cb64347460529a9d48530a58a027ca1c1))
+
+
+### Miscellaneous Chores
+
+* remove extendscript config ([9d19913](https://github.com/cprecioso/tsconfig/commit/9d19913165803bd5af91225ff6dbd7cae2840c0e))
+
 ## [2.0.1](https://github.com/cprecioso/tsconfig/compare/v2.0.0...v2.0.1) (2023-04-26)
 
 
