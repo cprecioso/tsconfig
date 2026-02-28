@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/cprecioso/tsconfig/compare/v3.0.0...v3.0.1) (2026-02-28)
+
+
+### Bug Fixes
+
+* republish ([a388a5f](https://github.com/cprecioso/tsconfig/commit/a388a5f0845b43d2b9a92eedcf3e53e23cea76c8))
+
 ## [3.0.0](https://github.com/cprecioso/tsconfig/compare/v2.0.1...v3.0.0) (2026-02-28)
 
 
