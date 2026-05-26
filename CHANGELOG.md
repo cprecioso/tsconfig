@@ -1,5 +1,21 @@
 # Changelog
 
+## [4.0.0](https://github.com/cprecioso/tsconfig/compare/v3.0.2...v4.0.0) (2026-05-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* bump version to TS6
+
+### Bug Fixes
+
+* remove deprecated option ([c5a9484](https://github.com/cprecioso/tsconfig/commit/c5a94845b77a4e5f5af0f679510a86eddb1bc2b2))
+
+
+### Miscellaneous Chores
+
+* bump version to TS6 ([6a44e7a](https://github.com/cprecioso/tsconfig/commit/6a44e7ac88a292238408bbc9ce37cbd1d7d1be8a))
+
 ## [3.0.2](https://github.com/cprecioso/tsconfig/compare/v3.0.1...v3.0.2) (2026-02-28)
 
 
