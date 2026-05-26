@@ -4,7 +4,6 @@
     "strict": true,
     "skipLibCheck": true,
     "alwaysStrict": true,
-    "downlevelIteration": true,
     "noFallthroughCasesInSwitch": true,
     "isolatedModules": true,
     "forceConsistentCasingInFileNames": true,
