@@ -22,13 +22,13 @@
     "tsconfig"
   ],
   "peerDependencies": {
-    "typescript": ">=5"
+    "typescript": ">=6"
   },
   "devDependencies": {
-    "prettier": "3.8.1",
+    "prettier": "3.8.3",
     "prettier-plugin-organize-imports": "4.3.0",
-    "prettier-plugin-pkg": "0.21.2",
-    "prettier-plugin-sh": "0.18.0",
-    "typescript": "~5.9.3"
+    "prettier-plugin-pkg": "0.22.1",
+    "prettier-plugin-sh": "0.18.1",
+    "typescript": "~6.0.3"
   }
 }
