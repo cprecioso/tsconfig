@@ -5,6 +5,7 @@
     "moduleResolution": "node16",
     "target": "esnext",
     "module": "commonjs",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": ["node"]
   }
 }
