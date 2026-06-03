@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/cprecioso/tsconfig/compare/v4.0.0...v4.1.0) (2026-06-03)
+
+
+### Features
+
+* add node types ([0f3342d](https://github.com/cprecioso/tsconfig/commit/0f3342dcb86867b6156bf25758096017c06f4ffc))
+
 ## [4.0.0](https://github.com/cprecioso/tsconfig/compare/v3.0.2...v4.0.0) (2026-05-26)
 
 
